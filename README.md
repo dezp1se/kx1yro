@@ -1,16 +1,16 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0D,45:17191F,100:7D171D&height=260&section=header&text=kx1yro&fontSize=90&fontColor=EDEDED&fontAlignY=39&desc=SECURE.%20CONTAIN.%20PROTECT.&descSize=18&descColor=B94B50&descAlignY=63" width="100%" alt="kx1yro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0D,45:17191F,100:7D171D&height=260&section=header&text=KAYNE&fontSize=90&fontColor=EDEDED&fontAlignY=39&desc=SECURE.%20CONTAIN.%20PROTECT.&descSize=18&descColor=B94B50&descAlignY=63" width="100%" alt="Kayne" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=C94B50&center=true&vCenter=true&width=750&lines=SCP+MODDER;EXPLORING+THE+UNKNOWN;MODIFYING+THE+FOUNDATION;WELCOME+TO+MY+CORNER+OF+THE+SCP+UNIVERSE" alt="Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=C94B50&center=true&vCenter=true&width=750&lines=SCP+MODDER;ANOMALIST+DEPARTMENT;EXPLORING+THE+UNKNOWN;MODIFYING+THE+FOUNDATION" alt="Introduction" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/IDENTITY-kx1yro-8B1E24?style=for-the-badge&labelColor=090A0D" />
-<img src="https://img.shields.io/badge/SPECIALISATION-SCP%20MODDING-555555?style=for-the-badge&labelColor=090A0D" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-347A54?style=for-the-badge&labelColor=090A0D" />
+<img src="https://img.shields.io/badge/PERSONNEL-KAYNE-8B1E24?style=for-the-badge&labelColor=090A0D" />
+<img src="https://img.shields.io/badge/DEPARTMENT-ANOMALIST-555555?style=for-the-badge&labelColor=090A0D" />
+<img src="https://img.shields.io/badge/SPECIALISATION-SCP%20MODDING-8B1E24?style=for-the-badge&labelColor=090A0D" />
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<sub>DOCUMENT CLASSIFICATION: PUBLIC ACCESS</sub>
+<sub>GITHUB: kx1yro · PERSONNEL FILE: KAYNE</sub>
 
 </div>
 
@@ -26,43 +26,44 @@
 
 ## About Me
 
-I'm **kx1yro**, an SCP enthusiast and modder.
+I'm **Kayne**, an SCP enthusiast and modder working within the **Anomalist Department**.
 
 My interests revolve around the SCP universe, particularly the games, facilities, anomalies and systems that make it such an interesting world to explore.
 
-I spend my time experimenting with SCP-related games, exploring their underlying structures and creating modifications that expand on existing experiences.
+I enjoy exploring SCP-related games, understanding how they're built and creating modifications that expand upon existing experiences.
 
-I'm especially interested in the technical side of SCP modding: environments, room systems, entities, gameplay mechanics and the little details that make a facility feel alive.
+My main interests include facility environments, room systems, anomalous entities, gameplay mechanics and the technical side of game modding.
 
-**My goal is simple: explore the unknown and create something worth experiencing.**
+**My goal is to explore the unknown and create something worth experiencing.**
+
+---
+
+## Department Assignment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DEPARTMENT-ANOMALIST-8B1E24?style=for-the-badge&labelColor=090A0D" />
+
+<br><br>
+
+**ANOMALIST DEPARTMENT**
+
+*Understanding the anomalous. Exploring the unexplained.*
+
+</div>
 
 ---
 
 ## Modding Interests
 
-<div align="center">
-
-| <img src="https://img.shields.io/badge/01-8B1E24?style=flat-square" /> | **Facility Environments** |
+| Specialisation | Focus |
 | :--- | :--- |
-| | Rooms, corridors, procedural generation and facility layouts. |
-
-| <img src="https://img.shields.io/badge/02-8B1E24?style=flat-square" /> | **Anomalous Entities** |
-| :--- | :--- |
-| | SCP entities, NPCs, behaviours and interactions. |
-
-| <img src="https://img.shields.io/badge/03-8B1E24?style=flat-square" /> | **Game Systems** |
-| :--- | :--- |
-| | Gameplay mechanics, interactions and underlying systems. |
-
-| <img src="https://img.shields.io/badge/04-8B1E24?style=flat-square" /> | **Game Modding** |
-| :--- | :--- |
-| | Exploring, modifying and expanding existing SCP experiences. |
-
-| <img src="https://img.shields.io/badge/05-8B1E24?style=flat-square" /> | **Worldbuilding** |
-| :--- | :--- |
-| | Creating immersive environments inspired by the SCP universe. |
-
-</div>
+| **Game Modding** | Modifying and expanding SCP games. |
+| **Facility Environments** | Rooms, corridors, layouts and procedural generation. |
+| **Anomalous Entities** | SCP entities, NPCs and behaviours. |
+| **Gameplay Systems** | Mechanics, interactions and player experiences. |
+| **Worldbuilding** | Creating immersive SCP environments. |
+| **Research** | Exploring game structures, assets and existing systems. |
 
 ---
 
@@ -79,10 +80,7 @@ I'm especially interested in the technical side of SCP modding: environments, ro
 
 An SCP-inspired game project exploring the atmosphere and experience of an underground Foundation facility.
 
-The project focuses on facility exploration, room generation, anomalous entities and immersive gameplay.
-
 **Development areas:**
-
 - Facility environments and room systems.
 - Procedural facility generation.
 - NPCs and anomalous entities.
@@ -93,33 +91,29 @@ The project focuses on facility exploration, room generation, anomalous entities
 
 ---
 
-## The Development Process
-
-I like understanding how things work before changing them. Modding isn't just about adding new content; it's about understanding the systems behind the experience.
+## Development Process
 
 ```text
-       DISCOVER
-           |
-       INVESTIGATE
-           |
-       EXPERIMENT
-           |
-        MODIFY
-           |
-         TEST
-           |
-        REFINE
-           |
-         DEPLOY
-           |
-         REPEAT
+DISCOVER
+   |
+INVESTIGATE
+   |
+EXPERIMENT
+   |
+MODIFY
+   |
+TEST
+   |
+REFINE
+   |
+DEPLOY
+   |
+REPEAT
 ```
 
 ---
 
 ## The SCP Universe
-
-A few familiar faces from the Foundation's archives.
 
 <div align="center">
 
@@ -160,17 +154,19 @@ A few familiar faces from the Foundation's archives.
 
 <br><br>
 
-**kx1yro**
+**KAYNE**
 
-<sub>THE FOUNDATION IS ALWAYS WATCHING.</sub>
+<sub>ANOMALIST DEPARTMENT · PERSONNEL FILE</sub>
 
 <br><br>
 
 <a href="https://github.com/kx1yro">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-8B1E24?style=for-the-badge&logo=github&logoColor=white&labelColor=090A0D" />
+<img src="https://img.shields.io/badge/GITHUB-kx1yro-8B1E24?style=for-the-badge&logo=github&logoColor=white&labelColor=090A0D" />
 </a>
 
 <br><br>
+
+<sub>THE FOUNDATION IS ALWAYS WATCHING.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D171D,100:090A0D&height=130&section=footer" width="100%" alt="Footer" />
 
